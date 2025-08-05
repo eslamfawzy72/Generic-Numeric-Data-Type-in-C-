@@ -1,4 +1,4 @@
-# Generic-Numeric-Data-Type-in-C-
+# Generic-Numeric-Data-Type-in-C++
 🔢 Polymorphic Numeric System in C++
 This project implements a polymorphic numeric system in C++ that allows different numeric types (int, float, double, complex, etc.) to be manipulated uniformly through a base class Numeric. It's designed to support arithmetic, comparison, type conversion, and printing between these types — even when stored using base class pointers.
 
